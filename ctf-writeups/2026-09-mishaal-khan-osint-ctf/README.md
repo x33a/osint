@@ -2,7 +2,7 @@
 
 A learning log from a 30-challenge OSINT (open-source intelligence) CTF, covering the question behind each challenge, the technique that cracks it, and the tools used. The focus is on *how* to find things, so the approaches are written to be reusable on other investigations.
 
-**Final score:** 27 of 30 confirmed · 4,250 of 4,890 points · 2 unconfirmed · 1 unsolved
+**Final score:** 28 of 30 confirmed · 4,490 of 4,890 points · 1 unconfirmed · 1 unsolved
 
 > **Spoiler policy:** where an answer is included, it sits inside a collapsed "Show answer" block. If you're working a similar challenge, read the *Approach* sections and leave the answers closed.
 
@@ -46,7 +46,7 @@ This CTF was created and run by **[Mishaal Khan](https://www.mishaalkhan.com/)**
 | Gov | Fraud | 150 | ✅ Solved |
 | Gov | Registered to vote | 150 | ❌ Unsolved |
 | Image | 316 | 200 | ✅ Solved |
-| Image | Easy as Pi | 240 | ⚠️ Unconfirmed |
+| Image | Easy as Pi | 240 | ✅ Solved |
 | Image | Phone A Friend | 80 | ✅ Solved |
 | Image | Viral | 130 | ✅ Solved |
 | Network | IP | 60 | ✅ Solved |
@@ -413,7 +413,7 @@ Not solved. The answer is effectively a real person's home address, so this writ
 
 </details>
 
-### Easy as Pi — 240 · ⚠️ Unconfirmed
+### Easy as Pi — 240
 
 **Question:** In which country was this photo taken? (Raspberry Pi B+ boxes and Pibow cases in a shipping box.)
 
@@ -430,7 +430,7 @@ What worked was **finding the original poster**: an AI-assisted image search sur
 <details>
 <summary>Show answer</summary>
 
-**The Netherlands** *(unconfirmed)*.
+**The Netherlands.**
 
 </details>
 
